@@ -1,4 +1,4 @@
-# AndroidKillerx
+# androidkillerx
 基于Android killer 1.3.1 修改
 # 更新内容
 ### 1.0.0
